@@ -17,7 +17,9 @@ Utilizar Apache Airflow (levantarlo en Docker) para orquestar y programar que es
 ## 1) clonar proyecto
  - git clone  https://github.com/NicoLas24-bel/pipeline-etl
 
-## 2) crear e iniciar entorno virtual en python (ejecutar comando en la terminal, raiz del proyecto)(Linux)
+## 2) crear e iniciar entorno virtual en python
+ Ejecutar comando en la terminal, raiz del proyecto (Linux)
+ 
  - python3 -m venv venv
  - source venv/bin/activate
 
